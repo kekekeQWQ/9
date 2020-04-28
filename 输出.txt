@@ -1,0 +1,4 @@
+序列X ACBDBACD
+序列Y CDABA
+最长公共子序列长度为：4
+最长公共子序列为：CDBA
